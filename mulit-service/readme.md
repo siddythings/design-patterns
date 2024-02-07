@@ -1,5 +1,3 @@
-# Problem
-
 # Multi-Service Factory Design Pattern Project
 
 ## Overview
